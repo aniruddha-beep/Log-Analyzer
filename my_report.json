@@ -1,0 +1,9 @@
+{
+    "analysis_metadata": {
+        "source_file": "auth.log",
+        "threshold_used": 5,
+        "total_failed_attempts_found": 5,
+        "total_suspicious_ips": 0
+    },
+    "suspicious_ips": {}
+}
